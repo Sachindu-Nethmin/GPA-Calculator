@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 1.Open the command promt and run following command to clone repo
 
-~~git clone https://github.com/Sachindu-Nethmin/GPA-Calculator.git
+git clone https://github.com/Sachindu-Nethmin/GPA-Calculator.git
 
 2.Change derectory using cd <your file path>
 3.Then run 
-~~bal run
+bal run
